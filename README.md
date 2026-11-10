@@ -18,6 +18,8 @@
 
 <p align="center">
   <img src="https://substackcdn.com/image/fetch/$s_!wAmm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F016c62b6-9378-40f4-9f08-8f0b9b9aa561_2000x1428.png" width="80%" alt="Data modelling, Python, Git, SQL, OLAP and orchestration"/>
+  <br/>
+    <sub>Image credit: <a href="https://vutr.substack.com/p/6-technical-skills-every-data-engineer?utm_source=publication-search">vutr</a></sub>
 </p>
 
 <p align="center">
